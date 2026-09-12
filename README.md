@@ -311,6 +311,7 @@ POLL_INTERVAL
 ### 1. Install Arduino IDE
 
 Install Arduino IDE and configure the Arduino-Pico core.
+Board References copy this : https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json
 
 ### 2. Select the Board
 
@@ -327,7 +328,7 @@ const char* WIFI_PASSWORD = "YOUR_PASSWORD";
 
 ### 4. Configure Spotify
 
-Create a Spotify Developer application and configure the required credentials and redirect URI.
+Create a Spotify Developer application and configure the required credentials and redirect URI. - The Client ID
 
 ### 5. Upload
 
@@ -336,6 +337,9 @@ Upload the sketch to the Pico 2 W.
 ### 6. Authorize
 
 Complete Spotify authorization during the initial setup.
+Copy the code from the Serial Monitor and paste it in chrome where the Spotify is logged in.
+Authorize and then the screen will show blank. Dont Panic thats what we want.
+Copy the code after "http://127.0.0.1:8888/callback" and paste in the Serial monitor.
 
 Once authentication is complete, the device can operate as a standalone wall clock and Spotify display.
 
