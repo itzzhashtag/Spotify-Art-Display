@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕒🎵 Spotify HUB75 — The Smart Music Wall Clock
+# 🕒🎵✨ Spotify PulseFrame — The Smart Music Wall Clock
 
 **by [Aniket Chowdhury](mailto:micro.aniket@gmail.com) (aka `#Hashtag`)**
 
@@ -15,7 +15,7 @@
 
 ## 🎬 Project Overview
 
-**Spotify HUB75** is a **smart animated wall clock** built using a Raspberry Pi Pico 2 W and a 64x64 HUB75 RGB LED matrix.
+**Spotify PulseFrame** is a **smart animated wall clock** built using a Raspberry Pi Pico 2 W and a 64x64 HUB75 RGB LED matrix.
 
 At its core, it is a **digital wall clock** that displays the current time with animated visuals.
 
