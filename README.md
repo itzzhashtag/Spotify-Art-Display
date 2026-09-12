@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Status-Working-brightgreen?style=for-the-badge&logo=arduino" />
 <img src="https://img.shields.io/badge/Built%20with-Raspberry%20Pi%20Pico%202%20W-blue?style=for-the-badge&logo=raspberrypi" />
 <img src="https://img.shields.io/badge/Display-HUB75%2064x64-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Features-Clock%20%7C%20Spotify%20%7C%20Animations-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Features-Clock%20%7C%20Spotify-purple?style=for-the-badge" />
 
 </div>
 
